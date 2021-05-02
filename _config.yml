@@ -59,3 +59,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://teste-matheuseduardo-e2bd9.netlify.app'
